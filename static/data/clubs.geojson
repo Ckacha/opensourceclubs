@@ -1,0 +1,5217 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source": "https://clubapi.hackclub.com/clubs/map",
+    "fetchedAt": "2026-11-08T14:06:41.039Z",
+    "totalFromApi": 669,
+    "activeWithCoords": 347,
+    "activeSkippedNoCoords": 15
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "recOKtwWplw0wyruk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.43,
+          34.06
+        ]
+      },
+      "properties": {
+        "name": "404 Skill Not Found",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recN2xsUzvvkB5p7Z",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.74,
+          43.44
+        ]
+      },
+      "properties": {
+        "name": "Abbey Park Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec7ThQNPnxLvsHex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.13,
+          -1.97
+        ]
+      },
+      "properties": {
+        "name": "AceCoders",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recxrPlXClheFIk5J",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.83,
+          38.89
+        ]
+      },
+      "properties": {
+        "name": "AHS Hack-A-Ton",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recuIUuvqaOcRVwEB",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45,
+          17.41
+        ]
+      },
+      "properties": {
+        "name": "AKAHYD",
+        "website": "https://akahackclub.xyz/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec7jUPkyfckg5GGq",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.38,
+          25.26
+        ]
+      },
+      "properties": {
+        "name": "Al Salam Community School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec20DcMEGwN5itP4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.27,
+          43.81
+        ]
+      },
+      "properties": {
+        "name": "Albert Campbell Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec8a04SfhMkRc8aG",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.87,
+          52.22
+        ]
+      },
+      "properties": {
+        "name": "Alcester Grammar School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recsLM1MEbsOqKHQe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.92,
+          31.21
+        ]
+      },
+      "properties": {
+        "name": "AlexHack",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec59Gy7QrxcQBr32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.92,
+          45.32
+        ]
+      },
+      "properties": {
+        "name": "All Saints Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recFbjwkOaL957nvx",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123,
+          49.28
+        ]
+      },
+      "properties": {
+        "name": "Alpha Coding Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recwSKwsaJ1Acz0et",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.93,
+          33.84
+        ]
+      },
+      "properties": {
+        "name": "Anaheim Coding Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recnST369utfJz7m7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.63,
+          39.09
+        ]
+      },
+      "properties": {
+        "name": "Anne Arundel Hack Club",
+        "website": "https://boan235.github.io/anne-arundel-hack-club/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recEtpObAT7IWO6IJ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58,
+          8.55
+        ]
+      },
+      "properties": {
+        "name": "Apex Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recNZrhyp8c8H1yGR",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17,
+          23
+        ]
+      },
+      "properties": {
+        "name": "APJHIRC 安平國中資訊研究社",
+        "website": "https://hack.apjh.lol/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recpp8hFdVvAymarI",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47,
+          37.73
+        ]
+      },
+      "properties": {
+        "name": "Aptos Tigers Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recPmm1mTgwxe1KNn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27,
+          26.44
+        ]
+      },
+      "properties": {
+        "name": "Asha  Technos",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recYxJOF1HrZA8BZv",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.88,
+          51.15
+        ]
+      },
+      "properties": {
+        "name": "Ashford School Hack Club",
+        "website": "https://ashack.club"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recWjCsvFJg1eZ9SQ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3,
+          27.27
+        ]
+      },
+      "properties": {
+        "name": "Asyut Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recnXwTUbQj4VLOzN",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.22,
+          38.45
+        ]
+      },
+      "properties": {
+        "name": "BAL Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recpYWveKMPypQXv4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.32,
+          27.71
+        ]
+      },
+      "properties": {
+        "name": "Baneshwor Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recjOpBiDoKMzllZV",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89,
+          40.84
+        ]
+      },
+      "properties": {
+        "name": "Bard Bronx Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec52PQdXb8PhmcL1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.98,
+          33.35
+        ]
+      },
+      "properties": {
+        "name": "BASIS Ahwatukee Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recE3wVvS8rd05fSJ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.69,
+          43.45
+        ]
+      },
+      "properties": {
+        "name": "Bassem Hacks",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recESCe5d1epKRzHa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.99,
+          -33.75
+        ]
+      },
+      "properties": {
+        "name": "Baulko Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recIL19fvkwcaksXi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12,
+          40.67
+        ]
+      },
+      "properties": {
+        "name": "Bayonne High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recFaROPHuLWnKSoF",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23,
+          26.06
+        ]
+      },
+      "properties": {
+        "name": "BC Engineering Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recFcnCn7BMrbF0wZ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04,
+          40.9
+        ]
+      },
+      "properties": {
+        "name": "BCA Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recY1K2PW4G8kogUj",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.29,
+          -33.81
+        ]
+      },
+      "properties": {
+        "name": "Beaches Hack Club",
+        "website": "https://beacheshack.club"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recx4woSn41hSPEoe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.49,
+          30.08
+        ]
+      },
+      "properties": {
+        "name": "Beachside Barracoders",
+        "website": "https://barracoders.netlify.app"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recgRls5X8DCqYeBh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.46,
+          -0.27
+        ]
+      },
+      "properties": {
+        "name": "Bee HackClub",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recHgzXXeqjP9uSdq",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27,
+          37.87
+        ]
+      },
+      "properties": {
+        "name": "Berkeley High Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recagCtYWuj9Rt1jW",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.56,
+          40.72
+        ]
+      },
+      "properties": {
+        "name": "Bernards High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recXVlBrH7Eq2QEm0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.97,
+          37.69
+        ]
+      },
+      "properties": {
+        "name": "Beyer Hack Club",
+        "website": "https://beyerhack.club/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reczd3gz9IU922aPR",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.56,
+          24.35
+        ]
+      },
+      "properties": {
+        "name": "Bidaya",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recQAHxeG3u971CaK",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.17,
+          31.08
+        ]
+      },
+      "properties": {
+        "name": "Bishop Cotton HackClub",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recwFS16JOgtsAwy0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08,
+          42.32
+        ]
+      },
+      "properties": {
+        "name": "Boston Latin Academy",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recVieOzH5YBz0xcX",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.98,
+          33.31
+        ]
+      },
+      "properties": {
+        "name": "Braswell Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recUFjeSUG9xXzQ46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.69,
+          40.58
+        ]
+      },
+      "properties": {
+        "name": "Bridgewater-Raritan High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recvuEOGNYEcFeobv",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99,
+          49.22
+        ]
+      },
+      "properties": {
+        "name": "British Columbia Youth Developer Collective",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reclPSsSmMIKVs3mN",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.68,
+          27.68
+        ]
+      },
+      "properties": {
+        "name": "British Model College",
+        "website": "https://bmchack.club"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recepxLY8JjIHQDog",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89,
+          40.88
+        ]
+      },
+      "properties": {
+        "name": "Bronx Science Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recxE707kNoT7vS8N",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.48,
+          43.64
+        ]
+      },
+      "properties": {
+        "name": "BuildLab",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recjVv10gqLSmRZ3E",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74,
+          1.35
+        ]
+      },
+      "properties": {
+        "name": "Bukit Batok Secondary School Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rechBrF6d5NMjF2Me",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35,
+          37.58
+        ]
+      },
+      "properties": {
+        "name": "Burlingame High School Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recm9AVdSsUTpXmRm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2,
+          53.43
+        ]
+      },
+      "properties": {
+        "name": "Burnage Academy For Boys Hackclub",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recA0iWOvqP957Dro",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.12,
+          -33.95
+        ]
+      },
+      "properties": {
+        "name": "Bytesize",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recuWAhIYtNmTdsLX",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.94,
+          33.58
+        ]
+      },
+      "properties": {
+        "name": "Cactus Coding",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec80ymQPb3r4Gkwo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25,
+          33.86
+        ]
+      },
+      "properties": {
+        "name": "CAMS Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reciOQksaKBwNgbZW",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32,
+          33.84
+        ]
+      },
+      "properties": {
+        "name": "Capstone Codes",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recAY9rThNcSCpHyg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.08,
+          35.89
+        ]
+      },
+      "properties": {
+        "name": "Carrboro Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recZ1jJbZS3rvX2K5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.11,
+          37.76
+        ]
+      },
+      "properties": {
+        "name": "Carterville Coding Club",
+        "website": "https://cartervillecoding.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recGr6sYzXK0BZ02T",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.15,
+          37.44
+        ]
+      },
+      "properties": {
+        "name": "CastiHackers",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rece6RqQHK9sTIbL7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.18,
+          40.24
+        ]
+      },
+      "properties": {
+        "name": "CB South Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recpMU5qLXCcWihjO",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.41,
+          28.29
+        ]
+      },
+      "properties": {
+        "name": "Celebration Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recebXy0LPr42dJmX",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.55,
+          33.86
+        ]
+      },
+      "properties": {
+        "name": "Centennial Coding Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rechBHg2Ork2cGaO4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.69,
+          33.96
+        ]
+      },
+      "properties": {
+        "name": "CHHS Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recE86xbNvJcVNJXh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.87,
+          11.55
+        ]
+      },
+      "properties": {
+        "name": "CIA Computer Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recDC9SBTjBYftmHu",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.14,
+          25.04
+        ]
+      },
+      "properties": {
+        "name": "Circuitrex",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recz5wtMT3ePri4U0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.34,
+          52.01
+        ]
+      },
+      "properties": {
+        "name": "CLD Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recfCF3MaZnm4mUvy",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.32,
+          26.46
+        ]
+      },
+      "properties": {
+        "name": "Code Igniters",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec3Ut5qmw8BP3sli",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.13,
+          47.68
+        ]
+      },
+      "properties": {
+        "name": "Code NW Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recKAitjUkzlEWKKb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2,
+          12.98
+        ]
+      },
+      "properties": {
+        "name": "CODE-X-PLORERS",
+        "website": "https://codexplorershc.me/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rechMUU6ojWe0UmKc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.85,
+          34.07
+        ]
+      },
+      "properties": {
+        "name": "Code.in Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recZaX5VvQaEzgKPM",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.38,
+          16.74
+        ]
+      },
+      "properties": {
+        "name": "CodeSphere: A Hack Club Chapter",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec3jNtPc1HN7fJyd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.55,
+          42.05
+        ]
+      },
+      "properties": {
+        "name": "Coding club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recoy8QagfNVc6pWs",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96,
+          40.78
+        ]
+      },
+      "properties": {
+        "name": "Coding The Future",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reck6Ab6cwCgdPa9P",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.21,
+          51.78
+        ]
+      },
+      "properties": {
+        "name": "Coleg Gwent",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recV1fLxIlu6kxYa0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6,
+          45.46
+        ]
+      },
+      "properties": {
+        "name": "Colonel By Hack Club (CBHC)",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recZpStHBM0i2ohZe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6,
+          45.46
+        ]
+      },
+      "properties": {
+        "name": "Colonel By Secondary School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec6RbES4eQPAPOqZ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.55,
+          38.98
+        ]
+      },
+      "properties": {
+        "name": "Competitive Coding Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recv5RsyA6T95RXHO",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.07,
+          43.79
+        ]
+      },
+      "properties": {
+        "name": "Cottage Grove Hack Club",
+        "website": "https://cghs.hackclub.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recCMsjf2p8sfttXC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2,
+          47.78
+        ]
+      },
+      "properties": {
+        "name": "CPMS Knights Hackclub",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recksYgxjc3bd0Aht",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.93,
+          26.84
+        ]
+      },
+      "properties": {
+        "name": "Creators",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recSF1blmegXX55DQ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.48,
+          34.03
+        ]
+      },
+      "properties": {
+        "name": "Crossroads HackClub",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recveSJkYeHLZi3ih",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.56,
+          23.13
+        ]
+      },
+      "properties": {
+        "name": "Ctrl+Alt+Create",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recYyw6wOwaSpORJ6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.49,
+          10.82
+        ]
+      },
+      "properties": {
+        "name": "CVM Hack club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recCoH5vPwyGSvDAq",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.06,
+          37.89
+        ]
+      },
+      "properties": {
+        "name": "cyber knights frc team",
+        "website": "https://Tbd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec2NwgqNHe5NPk8j",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.21,
+          39.28
+        ]
+      },
+      "properties": {
+        "name": "Damascus High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recASnAfe3N5evJ44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.33,
+          43.68
+        ]
+      },
+      "properties": {
+        "name": "Danforth Collegiate & Technical Institute",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recN7nByvxxtsTeFi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19,
+          25.81
+        ]
+      },
+      "properties": {
+        "name": "DASH Coding Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recDbJ9PvSBMNFkEp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.65,
+          40.28
+        ]
+      },
+      "properties": {
+        "name": "Dauphin Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recZgbcEew8NSMNhe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.25,
+          30.06
+        ]
+      },
+      "properties": {
+        "name": "De La Salle Hack club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recjyUWbOZElAFBUW",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.13,
+          29.69
+        ]
+      },
+      "properties": {
+        "name": "Deer Park Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec70WRfWowJFuAdW",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.25,
+          55.23
+        ]
+      },
+      "properties": {
+        "name": "denmark hc",
+        "website": "https://www.hackclub.dk/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recli8BMlcM4FxXcq",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.21,
+          12.07
+        ]
+      },
+      "properties": {
+        "name": "DevEst Hackclub",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recybvijqwahKGeTr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.22,
+          44.47
+        ]
+      },
+      "properties": {
+        "name": "Dhyan Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recDyOidwDise0JIA",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.22,
+          44.47
+        ]
+      },
+      "properties": {
+        "name": "DhyansRealClub",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recXpwm8LOMyqqIVO",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.36,
+          28.1
+        ]
+      },
+      "properties": {
+        "name": "Digital Mines",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recIU2EMLKRW2v3dT",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16,
+          39.98
+        ]
+      },
+      "properties": {
+        "name": "E&S Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recMrN65IZ4cKks9K",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.39,
+          40.42
+        ]
+      },
+      "properties": {
+        "name": "EB Magnet Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recTRaToFV2t95vR1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.27,
+          51.37
+        ]
+      },
+      "properties": {
+        "name": "EEHS Hack Club",
+        "website": "https://eehshack.club/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recpfzhM0XFfuymr8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24,
+          42.03
+        ]
+      },
+      "properties": {
+        "name": "Elgin High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recQBUVMIlAHnljkA",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.33,
+          33.54
+        ]
+      },
+      "properties": {
+        "name": "Elite Scholars Academy Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recespYjwok6rX06C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.43,
+          28.62
+        ]
+      },
+      "properties": {
+        "name": "Elyra Club",
+        "website": "https://www.elyraclub.dino.icu/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recU43IbBxX6rUXvm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.22,
+          28.67
+        ]
+      },
+      "properties": {
+        "name": "Enigma",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recV3bwGDhRfzXv51",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.99,
+          39.61
+        ]
+      },
+      "properties": {
+        "name": "EPIC Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec6jIYXuxlGgmj8z",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09,
+          38.82
+        ]
+      },
+      "properties": {
+        "name": "Episcopal High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recFoyOcaiIuLkas1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2,
+          47.64
+        ]
+      },
+      "properties": {
+        "name": "EPS Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec6Pe9TvIavOfVss",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.94,
+          -27.51
+        ]
+      },
+      "properties": {
+        "name": "FERROWORKS",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recQj0Mk949KKu8kW",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.79,
+          20.01
+        ]
+      },
+      "properties": {
+        "name": "FIA CS club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reczHIhlo5Q6ur6oB",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.85,
+          49.19
+        ]
+      },
+      "properties": {
+        "name": "Fleetwood Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recbxxLAaS9mfV0W6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.81,
+          40.7
+        ]
+      },
+      "properties": {
+        "name": "Follow Your Heart",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recplOXT2TMN1UNAX",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.16,
+          38.65
+        ]
+      },
+      "properties": {
+        "name": "Folsom High Hack Club",
+        "website": "https://folsom-hack-club.vercel.app/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recCH33QwMMk1Xbow",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.96,
+          33.71
+        ]
+      },
+      "properties": {
+        "name": "Fountain Valley High School Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec9w8Jt9wJxjxmaq",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79,
+          49.28
+        ]
+      },
+      "properties": {
+        "name": "Fraser Hack Club",
+        "website": "https://fraser.hackclub.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recZmzrHOgCjchGMQ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.03,
+          37.35
+        ]
+      },
+      "properties": {
+        "name": "Fremont High School Hack Club",
+        "website": "https://fhs.hackclub.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rect7ofBo21WtrgmB",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.21,
+          42.46
+        ]
+      },
+      "properties": {
+        "name": "Future Academy Club",
+        "website": "https://club-site-rust.vercel.app/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec8f1dRsD8MeKTiy",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1,
+          32.54
+        ]
+      },
+      "properties": {
+        "name": "Germantown Hack club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recxiiFA8T8mtIzls",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.02,
+          30.77
+        ]
+      },
+      "properties": {
+        "name": "Gharbiya STEM",
+        "website": "https://gharbiyahc.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recoiMWMPrJVs6xXb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63,
+          45.54
+        ]
+      },
+      "properties": {
+        "name": "GHS Hack Club",
+        "website": "https://ghshack.club/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec3IPeoWgZxcA6GV",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.87,
+          -36.86
+        ]
+      },
+      "properties": {
+        "name": "Glendowie College",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recAQvyiFmnSJvJb3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.59,
+          43.63
+        ]
+      },
+      "properties": {
+        "name": "Glenforest Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recvKtcZ99771em7X",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.34,
+          -33.43
+        ]
+      },
+      "properties": {
+        "name": "Gosford Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recS14nDhM26xCwgo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.97,
+          45.26
+        ]
+      },
+      "properties": {
+        "name": "GreenBit",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recgvWF0Waj23MScO",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.19,
+          7.25
+        ]
+      },
+      "properties": {
+        "name": "Hack Club - FUTA",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "receC60dMuAddLwK3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.16,
+          37.44
+        ]
+      },
+      "properties": {
+        "name": "Hack Club - Purple",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec56HyGKFfNdxleo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9,
+          48.38
+        ]
+      },
+      "properties": {
+        "name": "Hack Club - St. Stephan",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recAFbErWtcXWSck7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3,
+          28.6
+        ]
+      },
+      "properties": {
+        "name": "Hack Club ASN",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reclnKyuirO0mh9Zk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08,
+          42.32
+        ]
+      },
+      "properties": {
+        "name": "Hack Club at BLA",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reccoZWJGMXrpyylZ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.51,
+          29.22
+        ]
+      },
+      "properties": {
+        "name": "Hack Club AVBIL",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recZAw2VcYJWvSJYc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.81,
+          32.13
+        ]
+      },
+      "properties": {
+        "name": "Hack Club BINJ",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recXJpwL5qsqAyB2T",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.91,
+          12.11
+        ]
+      },
+      "properties": {
+        "name": "Hack Club Curaçao",
+        "website": "https://www.curahack.club/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recIQ4nGvG9tTUezj",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.29,
+          51.13
+        ]
+      },
+      "properties": {
+        "name": "Hack Club DGSB",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec9xHEzDpfGBhxDO",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.06,
+          49.72
+        ]
+      },
+      "properties": {
+        "name": "Hack Club EGF",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recT9fmqfTcmp6xLb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.78,
+          37.32
+        ]
+      },
+      "properties": {
+        "name": "Hack Club EVHS",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recrqU3hy4i493EHn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.21,
+          28.61
+        ]
+      },
+      "properties": {
+        "name": "Hack Club GMS",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recWZqRboD8PtbANC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.63,
+          47.68
+        ]
+      },
+      "properties": {
+        "name": "Hack Club Győr",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recotuuPrWpld8kXk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.23,
+          44.38
+        ]
+      },
+      "properties": {
+        "name": "Hack Club HQ",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recdE2mNcuZn68c9j",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.37,
+          52
+        ]
+      },
+      "properties": {
+        "name": "Hack Club ISD",
+        "website": "https://jojoscatboys.men"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recSx7pY5BChwfRi9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.91,
+          48.84
+        ]
+      },
+      "properties": {
+        "name": "Hack Club Melčice",
+        "website": "https://melciceclub.online"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recCKwhu4GyBcyJhr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.16,
+          37.44
+        ]
+      },
+      "properties": {
+        "name": "Hack Club Paly",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recKDVhe04nBiPTJ7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.85,
+          33.97
+        ]
+      },
+      "properties": {
+        "name": "Hack Club Rabat",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recrniIncFu7Fl8Qs",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96,
+          40.78
+        ]
+      },
+      "properties": {
+        "name": "Hack Club Regis",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rect0FZLciJc1nBNL",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3,
+          -21.21
+        ]
+      },
+      "properties": {
+        "name": "Hack Club Stella",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recdYhE9Eo5YhZbX4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.66,
+          52.55
+        ]
+      },
+      "properties": {
+        "name": "Hack Club Supreme",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recI9FVIeZzUl4hLM",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.05,
+          44.05
+        ]
+      },
+      "properties": {
+        "name": "Hack Club Vaucluse",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recvL4Wm43sWO0UQX",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.81,
+          23.52
+        ]
+      },
+      "properties": {
+        "name": "Hack Club Vidisha",
+        "website": "https://vidisha.hackclub.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recpLghoZ0BMKY61N",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.85,
+          25.43
+        ]
+      },
+      "properties": {
+        "name": "Hack Club Vns",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec9vQ4R9aTqKhc0g",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.36,
+          40.8
+        ]
+      },
+      "properties": {
+        "name": "Hack Hollow Hills",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec2AcS2qeOorsHvC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.72,
+          40.5
+        ]
+      },
+      "properties": {
+        "name": "Hack the Seas",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recgSeVMLnDW5jM4d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15,
+          40.04
+        ]
+      },
+      "properties": {
+        "name": "Hack4Philly",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recjt71ucHlkI6Vx5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38,
+          42.51
+        ]
+      },
+      "properties": {
+        "name": "Hackclub @ NFHS",
+        "website": "https://nfhshack.club/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recx9LfJWWnyIrVRD",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.18,
+          26.71
+        ]
+      },
+      "properties": {
+        "name": "Hackclub DPS",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec2uRRxQ3G4vTfyK",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.02,
+          33.73
+        ]
+      },
+      "properties": {
+        "name": "Hackclub Marina Chapter",
+        "website": "https://marinahackclub.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recahq0O0FcgN8uss",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.63,
+          -32.96
+        ]
+      },
+      "properties": {
+        "name": "Hackclub Politecnico Rosario",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recROqE0s4Ymaf3HL",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.47,
+          53.59
+        ]
+      },
+      "properties": {
+        "name": "Hackclub Stade",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reclLWwUzsea1nU4a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.55,
+          28.81
+        ]
+      },
+      "properties": {
+        "name": "Hackclub Supa",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recjjlihGHqG8GZu4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06,
+          28.63
+        ]
+      },
+      "properties": {
+        "name": "HackHive",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recQbP4VrApDsYw5k",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.62,
+          29.67
+        ]
+      },
+      "properties": {
+        "name": "Hackovation",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recGWbRPGZwoyWGiQ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.62,
+          10.78
+        ]
+      },
+      "properties": {
+        "name": "HackPkd",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rectcjYx0JyxC0fSr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.79,
+          30.52
+        ]
+      },
+      "properties": {
+        "name": "Hacktive",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec2xijwHs8NSmH88",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.37,
+          29.74
+        ]
+      },
+      "properties": {
+        "name": "HAIS Code Collective",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reccU27lCPvaCFWZG",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.3,
+          -37.79
+        ]
+      },
+      "properties": {
+        "name": "Hamilton Boys' High School SciTech",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec30wuOwAeypEowc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.28,
+          -37.79
+        ]
+      },
+      "properties": {
+        "name": "Hamilton City Hack Club",
+        "website": "https://hackwaikato.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recdlajUnCsC9kiae",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.68,
+          33.97
+        ]
+      },
+      "properties": {
+        "name": "Harrison High School Coding Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recI9oQj4JkdwlEzf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.03,
+          0.57
+        ]
+      },
+      "properties": {
+        "name": "Hassan Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recJwVaVDxBfRusbL",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72,
+          51.08
+        ]
+      },
+      "properties": {
+        "name": "Heist-Op-Den-Berg",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rech8hPI1uIJUBRkf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.59,
+          30.46
+        ]
+      },
+      "properties": {
+        "name": "Hendrickson Innovation Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recAOtTZIjTtnaoSy",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.66,
+          40.76
+        ]
+      },
+      "properties": {
+        "name": "Herricks Coding Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recXYoU68ymY0yZRm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.73,
+          35.4
+        ]
+      },
+      "properties": {
+        "name": "High Voltage Hackers",
+        "website": "https://pgarg111.github.io/CMHS_HC_Website/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recjd9bA9vqxc69Q9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.98,
+          43.47
+        ]
+      },
+      "properties": {
+        "name": "Hillcrest Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recPNS6CRHoGBYf1G",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.03,
+          39.9
+        ]
+      },
+      "properties": {
+        "name": "HMHS Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recj8wbl34MrXBxCa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.54,
+          -3.74
+        ]
+      },
+      "properties": {
+        "name": "IFCE",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recZ8u94X0xuEMfbO",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.86,
+          37.37
+        ]
+      },
+      "properties": {
+        "name": "Independence High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recqvGcEupvkCCP7c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.92,
+          6.9
+        ]
+      },
+      "properties": {
+        "name": "Island Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recFT7plhCsKkdj4q",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.23,
+          30.63
+        ]
+      },
+      "properties": {
+        "name": "Ismailia STEM Hackclub ",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recAp81TzVJGa4fZJ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63,
+          47.72
+        ]
+      },
+      "properties": {
+        "name": "ISSH International School of Schaffhausen",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recH2deSfCmDkhkXk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2,
+          34.02
+        ]
+      },
+      "properties": {
+        "name": "Johns Creek High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recO2RpoFPV67W25N",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89,
+          40.57
+        ]
+      },
+      "properties": {
+        "name": "Jordan’s Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recTZUQyjNJRnMste",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2,
+          47.72
+        ]
+      },
+      "properties": {
+        "name": "Juanita High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reck78884y2xBGj9C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32,
+          37.55
+        ]
+      },
+      "properties": {
+        "name": "Junipero Serra High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recVbX0hA8oIqlR63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1,
+          -1.99
+        ]
+      },
+      "properties": {
+        "name": "Kagarama Secondary School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec7uTgdvJyxEBBOr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.35,
+          28.68
+        ]
+      },
+      "properties": {
+        "name": "Katalyst",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recOUyKtLkYt9QHks",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.48,
+          35.9
+        ]
+      },
+      "properties": {
+        "name": "Kavallieri Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recFjTY8vMi1Hgbq7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.84,
+          34.02
+        ]
+      },
+      "properties": {
+        "name": "KidLabs Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec7CKTFfUwDV7z9f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2,
+          40.74
+        ]
+      },
+      "properties": {
+        "name": "KIPP NCA hack club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recq6dedtZSPAuDkw",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76,
+          -0.09
+        ]
+      },
+      "properties": {
+        "name": "Kisumu Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recO6fZgKxufieNml",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.12,
+          -37.8
+        ]
+      },
+      "properties": {
+        "name": "Koonung Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rectM8GwAFUQ3Ltso",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.88,
+          49.19
+        ]
+      },
+      "properties": {
+        "name": "KSS Make",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recppNE8ZRdamcLBy",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.68,
+          53.21
+        ]
+      },
+      "properties": {
+        "name": "Lady Manners School Hack Club",
+        "website": "https://lmshack.uk/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recTvhNKINWqgpLAp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.11,
+          37.39
+        ]
+      },
+      "properties": {
+        "name": "LAHS Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec6VKIgRVsgiXjaT",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1,
+          33.54
+        ]
+      },
+      "properties": {
+        "name": "Lakeside Build Lab",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recNNjrqHYxjRXRBx",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14,
+          34.11
+        ]
+      },
+      "properties": {
+        "name": "Lambert Computer Science Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recmAD9YMb3ZW8FSn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.42,
+          29.79
+        ]
+      },
+      "properties": {
+        "name": "Launch Space Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recnWvw6cuhlF28UP",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.73,
+          40.26
+        ]
+      },
+      "properties": {
+        "name": "Lawrence Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec5B6E7J24pXkN4b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.97,
+          57.71
+        ]
+      },
+      "properties": {
+        "name": "LBS Gothenburg Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recszOFUq66pMvr5W",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6,
+          43.47
+        ]
+      },
+      "properties": {
+        "name": "LHSS Hack Club",
+        "website": "https://lhss-hackclub.vercel.app/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recShbo9eQVr852uu",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.92,
+          22.89
+        ]
+      },
+      "properties": {
+        "name": "Liceo LC Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recYvmpAXQ751cTsW",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67,
+          41.78
+        ]
+      },
+      "properties": {
+        "name": "Lindblom Math and Science Academy",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recgZg8wVrx6tuj1w",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.29,
+          48.31
+        ]
+      },
+      "properties": {
+        "name": "Linz",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reckO7q4DN7kO77jk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9,
+          35.6
+        ]
+      },
+      "properties": {
+        "name": "LNHS Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec4nXG0aQMtOsc9F",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6,
+          12.97
+        ]
+      },
+      "properties": {
+        "name": "Loyola Technology Centre Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recy6UFMx5WtQfgR4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.62,
+          10.81
+        ]
+      },
+      "properties": {
+        "name": "LTT-Crafter",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recIXPQC2Ra0YyNoT",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19,
+          32.89
+        ]
+      },
+      "properties": {
+        "name": "LY Hackers",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reczMXzAcOSDy0nTL",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87,
+          19.05
+        ]
+      },
+      "properties": {
+        "name": "Makerspace@OIS",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recXnpfKvA5dLHEZv",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17,
+          39.96
+        ]
+      },
+      "properties": {
+        "name": "Masterman Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recD0ecyKfrxlEIo8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25,
+          37.86
+        ]
+      },
+      "properties": {
+        "name": "Maybeck Coding and Electronics Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recXG1Vuyxl67Pud3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62,
+          45.61
+        ]
+      },
+      "properties": {
+        "name": "mechatronics club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recZWZ5bLvIxmzj6h",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2,
+          30.32
+        ]
+      },
+      "properties": {
+        "name": "Meow Mrrp Club",
+        "website": "https://meow.mrrp.club/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recQiTm0eBMM4XLwx",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.73,
+          45.34
+        ]
+      },
+      "properties": {
+        "name": "Merivale High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec34jVNIFlNDGFs3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.31,
+          43.84
+        ]
+      },
+      "properties": {
+        "name": "Milliken Mills Computer Science Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recjjg5QzipjZLAdN",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34,
+          34.1
+        ]
+      },
+      "properties": {
+        "name": "Milton Coders",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recpPMvRCXJUgi1S6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8,
+          36.16
+        ]
+      },
+      "properties": {
+        "name": "MLK Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recx0C9AXz4KwoXE8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.14,
+          41.25
+        ]
+      },
+      "properties": {
+        "name": "MN Computer Science Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recUwrSuqD0M28buK",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02,
+          39.15
+        ]
+      },
+      "properties": {
+        "name": "Modulus",
+        "website": "https://sopeeuhh.github.io/ModulusClub/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAadvz7ba1LRf2uPYt1BnpoOk9HcCNpyODsl_IlYfO69K_6UTLMJLfbMcqZyGFw_aem_tqHQqH18z_6nhirH5X7NBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec7iayxH5T0oA9Xu",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.69,
+          39.5
+        ]
+      },
+      "properties": {
+        "name": "MOT Charter Robotics Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recvpQLbBc9Qjjx0t",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27,
+          26.3
+        ]
+      },
+      "properties": {
+        "name": "MSD Coding Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recp3QxUitgnhWbdU",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2,
+          33.56
+        ]
+      },
+      "properties": {
+        "name": "Murrieta Mesa High School ",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recpBDTyBi4eof78t",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.59,
+          12.98
+        ]
+      },
+      "properties": {
+        "name": "N-Code Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recFESfVjK3zFbR4u",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.62,
+          12.95
+        ]
+      },
+      "properties": {
+        "name": "National Public School  Koramangala Hack Club",
+        "website": "https://youtube.com/@roboticsnpsk?si=G7Ia2ldd6g1FltYI"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recqbHyRY5zRDHN5g",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.04,
+          34.13
+        ]
+      },
+      "properties": {
+        "name": "NCS High School Coding Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recuTT4ZRO3Ltk8Uf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.76,
+          33.37
+        ]
+      },
+      "properties": {
+        "name": "Nexora Hacks",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recmERHNjUk1LzyIJ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.32,
+          28.66
+        ]
+      },
+      "properties": {
+        "name": "Nexus",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recwlwmpnDcNjYB70",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.43,
+          44.05
+        ]
+      },
+      "properties": {
+        "name": "NHS Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recm6LkxHqSruouau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122,
+          37.52
+        ]
+      },
+      "properties": {
+        "name": "NMHS Hack Club",
+        "website": "https://linktr.ee/nmhs_hack_club"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recEAKkxRrA0hn2nf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18,
+          42.26
+        ]
+      },
+      "properties": {
+        "name": "Nobles Coding Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rectM10odEembXZD1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.67,
+          33.47
+        ]
+      },
+      "properties": {
+        "name": "Northgate High School Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recV67ehunFihzNS9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91,
+          1.39
+        ]
+      },
+      "properties": {
+        "name": "NOVA",
+        "website": "https://www.novaclub.dev/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recoPeQduZjU5WPfh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.38,
+          6.51
+        ]
+      },
+      "properties": {
+        "name": "Nova Point",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recjUqXgNmN98HAnK",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.59,
+          12.98
+        ]
+      },
+      "properties": {
+        "name": "Oak Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reck2hYMlrkZp5GP1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.28,
+          38.88
+        ]
+      },
+      "properties": {
+        "name": "Oakton High School Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recE7vjLy7lOMxjvu",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.38,
+          28.53
+        ]
+      },
+      "properties": {
+        "name": "Off-Grid",
+        "website": "https://off-grid.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recxSyT1tUtA2QOYz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.77,
+          34.18
+        ]
+      },
+      "properties": {
+        "name": "OPHS Hackathon Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reclnvHEEEZcb9P6Z",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.71,
+          43.22
+        ]
+      },
+      "properties": {
+        "name": "Orchard Park Secondary School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recoXOgATq6PpLNXE",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.43,
+          27.68
+        ]
+      },
+      "properties": {
+        "name": "Orchid Tech Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recJb4kjVpOH3Pmoz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.74,
+          45.25
+        ]
+      },
+      "properties": {
+        "name": "Orion",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rechlnBDW1k5RDeX3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.99,
+          22.16
+        ]
+      },
+      "properties": {
+        "name": "Oropezas Robotics, Engineering, and Programing Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec8ThSlueWYt7c4r",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45,
+          38.78
+        ]
+      },
+      "properties": {
+        "name": "Osbourn Park High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recusKkuiYibmY6Ux",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26,
+          42.67
+        ]
+      },
+      "properties": {
+        "name": "OSTC NE Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recJUCI2Ay9d6zza2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05,
+          42.41
+        ]
+      },
+      "properties": {
+        "name": "Panther Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recYoOxb37myewuPs",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.31,
+          31.57
+        ]
+      },
+      "properties": {
+        "name": "PCES",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recD7h5C49rG9NCEd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2,
+          40.93
+        ]
+      },
+      "properties": {
+        "name": "PCTI STEM Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recLs1eiX7qcMF4CC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.79,
+          40.33
+        ]
+      },
+      "properties": {
+        "name": "Pennington Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recSAUb1uSOTZ9WaN",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.59,
+          49.49
+        ]
+      },
+      "properties": {
+        "name": "Penticton Secondary School",
+        "website": "https://k1wizz.github.io/PenHighHackClub/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec2sEu3fBh28Mnbu",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.21,
+          28.61
+        ]
+      },
+      "properties": {
+        "name": "Philomath Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recxTTjAp1CcNEIIG",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.21,
+          45.75
+        ]
+      },
+      "properties": {
+        "name": "Phoenix",
+        "website": "https://phoenixclub.ro/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recdmonRcKLjLTsgi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.42,
+          39.14
+        ]
+      },
+      "properties": {
+        "name": "PHS Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recyrNcEKtwNsEkR0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8,
+          33.24
+        ]
+      },
+      "properties": {
+        "name": "PHS Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recMzt9KOTyCQgLYS",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13,
+          26.2
+        ]
+      },
+      "properties": {
+        "name": "Pine Crest Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recemcfXP0vZv5RBU",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42,
+          27.2
+        ]
+      },
+      "properties": {
+        "name": "Pine View Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec2TcAFLPXyo4m2i",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.57,
+          39.15
+        ]
+      },
+      "properties": {
+        "name": "Pinions Robotics",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reczmdgHzE3kf8dpO",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5,
+          27.92
+        ]
+      },
+      "properties": {
+        "name": "Plant High School Girls Who Code",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recBCXQahQs4nmiKR",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.16,
+          42.63
+        ]
+      },
+      "properties": {
+        "name": "Polaris Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recYf7AjU4NjR1XVn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.64,
+          33.47
+        ]
+      },
+      "properties": {
+        "name": "Polymaths",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recgcfP4tKaDMQRvk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70,
+          18.47
+        ]
+      },
+      "properties": {
+        "name": "POMARAY Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recTf8AEBe65buy7Q",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.75,
+          -7.51
+        ]
+      },
+      "properties": {
+        "name": "Pradita Dirgantara High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recYPxUHCMPEjOXnM",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.69,
+          40.36
+        ]
+      },
+      "properties": {
+        "name": "Princeton Day Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recvGZGAzdmgWnkT7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4,
+          29.56
+        ]
+      },
+      "properties": {
+        "name": "Project Digital Divide",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec5q6YJbFITz0SDA",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.79,
+          40.98
+        ]
+      },
+      "properties": {
+        "name": "Protostar Robotics",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recYCdhFmwoYqLTM3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.48,
+          27.64
+        ]
+      },
+      "properties": {
+        "name": "Prynix",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recYcBfn085zX9vke",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.57,
+          9.01
+        ]
+      },
+      "properties": {
+        "name": "PTY Creative Coders Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reciH6GMmyoYrANDR",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.75,
+          33.18
+        ]
+      },
+      "properties": {
+        "name": "Python Project Club",
+        "website": "https://pythonprojects.club/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec06oje5rlXBEvI1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.94,
+          -26.12
+        ]
+      },
+      "properties": {
+        "name": "Radford House High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recIphrXsRcfm3rTv",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68,
+          38.34
+        ]
+      },
+      "properties": {
+        "name": "Rancho Tech Makers",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reciklFBkU9xrBlje",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          37.8
+        ]
+      },
+      "properties": {
+        "name": "RCHS Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recyNodpDBPOJfWoK",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.52,
+          25.31
+        ]
+      },
+      "properties": {
+        "name": "Recursion",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec33MFdPeWm4n6lc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.73,
+          27.29
+        ]
+      },
+      "properties": {
+        "name": "Red Sea STEM High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recbGa0zyjvrmCTy5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.24,
+          49.25
+        ]
+      },
+      "properties": {
+        "name": "reFila Recycling Project",
+        "website": "https://refila.ca"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recFgy20vZKYfKxME",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.74,
+          39.44
+        ]
+      },
+      "properties": {
+        "name": "Reno-Tahoe Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec4Jyp3uBjQQOy29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.71,
+          1.34
+        ]
+      },
+      "properties": {
+        "name": "River Valley High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recxnvpqWL8zuPxsP",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.68,
+          33.2
+        ]
+      },
+      "properties": {
+        "name": "Robotics club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recrtZ3Zuo2ePpoRb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.42,
+          27.67
+        ]
+      },
+      "properties": {
+        "name": "Robotics Club Of Valmiki",
+        "website": "https://rcov.vercel.app"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recKTCqov0Fs5NRQo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.21,
+          51.41
+        ]
+      },
+      "properties": {
+        "name": "Rutlish Terminal",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recJtTapVmbUr80e4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.91,
+          45.27
+        ]
+      },
+      "properties": {
+        "name": "Sacred Heart Catholic High School HC",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recofyQ2CG1IlQYxR",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26,
+          37.77
+        ]
+      },
+      "properties": {
+        "name": "Saint Joseph Notre Dame High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recGtIWiVcok7iBUA",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.59,
+          -12.72
+        ]
+      },
+      "properties": {
+        "name": "Sapiens",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reczGDFvd7WY3BFcX",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.19,
+          53.26
+        ]
+      },
+      "properties": {
+        "name": "SETSS Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recwqKC6GBmsgcsJI",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.69,
+          44.76
+        ]
+      },
+      "properties": {
+        "name": "ŠG Hack Club",
+        "website": "https://sghack.club/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recXWjzEt1W46dcMe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.99,
+          31.63
+        ]
+      },
+      "properties": {
+        "name": "Shehacks hack club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recH28iEbKcXRIyHg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.47,
+          30.2
+        ]
+      },
+      "properties": {
+        "name": "Shikrani Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec1mYZeXdbdOvoEh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.11,
+          56.95
+        ]
+      },
+      "properties": {
+        "name": "Sinners Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recSxxT28Nqpf5DXJ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.45,
+          30.03
+        ]
+      },
+      "properties": {
+        "name": "SIS Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recq6GC2onFnGZ0mA",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83,
+          1.32
+        ]
+      },
+      "properties": {
+        "name": "SJI Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recWuTav50OQxYR2O",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.24,
+          30.05
+        ]
+      },
+      "properties": {
+        "name": "SnackOverflow",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec7vRwP8vW65kgfF",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.66,
+          30.53
+        ]
+      },
+      "properties": {
+        "name": "Software Shippers",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recDWGg8enfjRECTu",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.44,
+          41.38
+        ]
+      },
+      "properties": {
+        "name": "Solon Codes",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recbBUvBLwiXu7kTr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.24,
+          16.7
+        ]
+      },
+      "properties": {
+        "name": "SOSE Hack Hive",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reccLGsSF0MUeBhqV",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80,
+          37.2
+        ]
+      },
+      "properties": {
+        "name": "South County Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recHAgdT5IixK8wb4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.17,
+          34.15
+        ]
+      },
+      "properties": {
+        "name": "South Forsyth High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recfqVxLrlyufJvDb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.36,
+          33.81
+        ]
+      },
+      "properties": {
+        "name": "South High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "receh4J9LZXWkDfkJ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.86,
+          40.78
+        ]
+      },
+      "properties": {
+        "name": "South Hills Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recT4vYamlNthEN0o",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.21,
+          53.4
+        ]
+      },
+      "properties": {
+        "name": "Spaghetti Coders",
+        "website": "https://spaghetticoders.club"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recz9umKkVeggBl7Z",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.61,
+          40.1
+        ]
+      },
+      "properties": {
+        "name": "Spanish Fork Hackclub",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recPnm62BiljEaqGz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48,
+          45.47
+        ]
+      },
+      "properties": {
+        "name": "SPK Code Studio",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recP7HjqFLiBLVwNY",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.18,
+          23.46
+        ]
+      },
+      "properties": {
+        "name": "Sprout",
+        "website": "https://sprouthc.club"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reclKjeyv68s95e27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11,
+          32.91
+        ]
+      },
+      "properties": {
+        "name": "SRHS Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recjyut3SbGVcUmCL",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.22,
+          51.32
+        ]
+      },
+      "properties": {
+        "name": "St Augustine's College Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recAI4bXNAwnvaA9z",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.86,
+          -36.85
+        ]
+      },
+      "properties": {
+        "name": "St Heliers Library",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recDOOdF9tdHxg1WJ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.41,
+          50.7
+        ]
+      },
+      "properties": {
+        "name": "St John's Hackclub",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recK3LTCGQouxOPnW",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.15,
+          51.33
+        ]
+      },
+      "properties": {
+        "name": "St. Olave's CSS",
+        "website": "https://css.saintolaves.net"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recMGMvrS9IwtM9d0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.79,
+          41.98
+        ]
+      },
+      "properties": {
+        "name": "Star Hub",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recTTWr2VsG9LPgfG",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9,
+          51.98
+        ]
+      },
+      "properties": {
+        "name": "Starlab",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recqNZG4I0BbfIOMn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.43,
+          27.68
+        ]
+      },
+      "properties": {
+        "name": "STEM club of Aroma",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recvQnwxSfDOFsxjA",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.21,
+          30.01
+        ]
+      },
+      "properties": {
+        "name": "STEM CSC",
+        "website": "https://www.stemcsclub.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reclpS4AQG1sEvmbw",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.08,
+          29.9
+        ]
+      },
+      "properties": {
+        "name": "STEM Egypt Hack Club",
+        "website": "https://stemeghackclub.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recZpZOBF1Wz4VOK5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.29,
+          41.65
+        ]
+      },
+      "properties": {
+        "name": "Sturgis Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recZsLms3txTaGX9G",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.13,
+          49.22
+        ]
+      },
+      "properties": {
+        "name": "SWC Hackclub",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recN8HPYeeASZnsPP",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.24,
+          48.5
+        ]
+      },
+      "properties": {
+        "name": "SWHS Engineering Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recGqfxFnTSmBAGbM",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18,
+          37.45
+        ]
+      },
+      "properties": {
+        "name": "Synapse Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rechwL4TxiKoDRAqR",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "Syntax Error",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recz0BxZi03q46kXZ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74,
+          -16.98
+        ]
+      },
+      "properties": {
+        "name": "TAS Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recB07ePe3PF6jYzC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06,
+          28.59
+        ]
+      },
+      "properties": {
+        "name": "Tech Mobius",
+        "website": "https://techmobius.in/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec1MsYL6zEWjX0Vo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.62,
+          18.52
+        ]
+      },
+      "properties": {
+        "name": "Tech raiders hack club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recGAbrF86nvH0Bwb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95,
+          49.22
+        ]
+      },
+      "properties": {
+        "name": "TechTogether",
+        "website": "https://krupa-pramod.github.io/TechTogether/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recC4BRkVacmOM8Pu",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.74,
+          29.38
+        ]
+      },
+      "properties": {
+        "name": "teenVerse",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recHgQWMMWASR6Hfw",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.84,
+          29.31
+        ]
+      },
+      "properties": {
+        "name": "Tekton",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reczHxk96pDRgXyI2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.53,
+          36.61
+        ]
+      },
+      "properties": {
+        "name": "The Awesome People Club of Parlier",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recj1eIDq1z6rGFxb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9,
+          29.96
+        ]
+      },
+      "properties": {
+        "name": "The Eleveners",
+        "website": "https://the-eleveners-hc.github.io/The-Eleveners-Website-V2/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recH2FlT67dqoaqu2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08,
+          19.22
+        ]
+      },
+      "properties": {
+        "name": "The makers",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recceUu1HQW1UoOR2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.19,
+          5.6
+        ]
+      },
+      "properties": {
+        "name": "THE S.T.E.A.M STARTUP/LABS (HACK CLUB GHANA)",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec1LIlu1i52SP5Bp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.22,
+          44.47
+        ]
+      },
+      "properties": {
+        "name": "The Toast Foundation",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recYLrUTRzFpaygWN",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.18,
+          51.15
+        ]
+      },
+      "properties": {
+        "name": "Tiffin Dt Stem Cub",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recBcLDSkHaTKqrTw",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.17,
+          47.6
+        ]
+      },
+      "properties": {
+        "name": "Titan Hack Club",
+        "website": "https://international.bsd405.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recIYW4TJclooP7Z1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.17,
+          38.82
+        ]
+      },
+      "properties": {
+        "name": "TJHSST Dev Club",
+        "website": "https://tjdev.club/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recOUrzSKnpvEAwyP",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.81,
+          29.74
+        ]
+      },
+      "properties": {
+        "name": "Tompkins Engineering and Design Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recyMGUZwJVcxetmB",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.52,
+          28.45
+        ]
+      },
+      "properties": {
+        "name": "Twilara",
+        "website": "https://twilara.tech/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reccUcwGw9z65arGb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41,
+          43.65
+        ]
+      },
+      "properties": {
+        "name": "UFA Stem",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recGIGWjcP90oD3QI",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.82,
+          33.65
+        ]
+      },
+      "properties": {
+        "name": "UHS Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reca8523vSOCRvcg6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.76,
+          26.88
+        ]
+      },
+      "properties": {
+        "name": "Unbound Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec4oFvFMww7UTAtu",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.72,
+          39.88
+        ]
+      },
+      "properties": {
+        "name": "Unionville High School Computer Science Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recPLs3sDoPQt301b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.61,
+          50.85
+        ]
+      },
+      "properties": {
+        "name": "Urban Lab Kielce",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec6AI818XHNbGGli",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.18,
+          59.18
+        ]
+      },
+      "properties": {
+        "name": "V-Makers by Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recBqyl516o2Vhl9r",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.83,
+          37.28
+        ]
+      },
+      "properties": {
+        "name": "Valley Christian High School Software Development Club",
+        "website": "https://vcsdclub.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recOJfhXEg51j3cne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.68,
+          33.43
+        ]
+      },
+      "properties": {
+        "name": "Vertex Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec7dEFO5itJp0RnZ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.47,
+          38.05
+        ]
+      },
+      "properties": {
+        "name": "Very Serious Hackclub of Charlottesville High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recg0AFAgBH3dWEfe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.87,
+          33.88
+        ]
+      },
+      "properties": {
+        "name": "VHS Hack Club - Code, CAD, Create!",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recrlHQsnBRgAAZ57",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.28,
+          33.78
+        ]
+      },
+      "properties": {
+        "name": "VHTPA Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec1L7kNComB0mYZx",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.78,
+          38.96
+        ]
+      },
+      "properties": {
+        "name": "Village Middle Hack Club",
+        "website": "https://vmshkcb.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recdJvojLPgJseqSH",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13,
+          39.03
+        ]
+      },
+      "properties": {
+        "name": "Walter Johnson Hack Club",
+        "website": "https://wjhackclub.dev"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec8Wdx7fjrbY35I3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.14,
+          42.74
+        ]
+      },
+      "properties": {
+        "name": "Warsaw Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec3a3qFSuyKm60kn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53,
+          43.48
+        ]
+      },
+      "properties": {
+        "name": "Waterloo Collegiate Institute",
+        "website": "https://wcics.vercel.app/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recCCYUeFf9PqEpip",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.89,
+          37.34
+        ]
+      },
+      "properties": {
+        "name": "Watt's For Lunch?",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recdCHP2trdng9Wvb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2,
+          36.85
+        ]
+      },
+      "properties": {
+        "name": "WeDoThings",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reczGlvAiSxOE8PJU",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.78,
+          -41.3
+        ]
+      },
+      "properties": {
+        "name": "Wellington College",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recq9oI5ptEkhK0qW",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.08,
+          51.04
+        ]
+      },
+      "properties": {
+        "name": "Western Canada High School",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recMhXuIegIehH5hc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33,
+          26.1
+        ]
+      },
+      "properties": {
+        "name": "Western High Computer Science Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recuRIQyXCnS1YGbX",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.21,
+          32.99
+        ]
+      },
+      "properties": {
+        "name": "Westlake Academy",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rect7UkOeeo5GpcDM",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13,
+          51.37
+        ]
+      },
+      "properties": {
+        "name": "Wilson's Hack Club",
+        "website": "https://wilsonshackclub.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recbbHgWbcuDrxca2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23,
+          40.17
+        ]
+      },
+      "properties": {
+        "name": "Wissahickon Computer Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reciZJkJr08CFz2K2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.23,
+          43.78
+        ]
+      },
+      "properties": {
+        "name": "Woburn Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recbvTOsiXz8v6HlT",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.41,
+          20.56
+        ]
+      },
+      "properties": {
+        "name": "Wolftis Hack Club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recyc6tzIHEIBDyub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.58,
+          43.78
+        ]
+      },
+      "properties": {
+        "name": "Woodbridge College hack club",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rec4uZ0vAH0lPR9Vt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67,
+          35.27
+        ]
+      },
+      "properties": {
+        "name": "Yo-Hi STEM Club",
+        "website": "https://hc-kinnick.club"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recrIppRvUsoUnNbz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37,
+          43.75
+        ]
+      },
+      "properties": {
+        "name": "York Mills Collegiate Institute",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recVsS1Lda7obpvED",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.66,
+          7.7
+        ]
+      },
+      "properties": {
+        "name": "Zahira College Matale",
+        "website": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "recyTQvVErG6Z6EKM",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37,
+          43.8
+        ]
+      },
+      "properties": {
+        "name": "Zion Heights",
+        "website": null
+      }
+    }
+  ]
+}
