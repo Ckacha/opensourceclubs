@@ -69,10 +69,89 @@ export function addClubLayers(map, clubs) {
     },
   });
 
-  for (const layer of ["clusters", "club-point"]) {
-    map.on("mouseenter", layer, () => (map.getCanvas().style.cursor = "pointer"));
-    map.on("mouseleave", layer, () => (map.getCanvas().style.cursor = ""));
+}
+
+function linkFor({ href, website }) {
+  return href && href !== "null" ? href : website && website !== "null" ? website : null;
+}
+
+function hostOf(link) {
+  try {
+    return new URL(link.startsWith("http") ? link : `https://${link}`).hostname.replace(/^www\./, "");
+  } catch {
+    return link;
   }
+}
+
+function el(tag, cls, text) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text != null) e.textContent = text;
+  return e;
+}
+
+function clubHover(props) {
+  const box = el("div", "club-popup hover");
+  box.append(el("span", "tag", "Active club"), el("h3", null, props.name));
+  const link = linkFor(props);
+  if (link && !link.startsWith("/")) box.append(el("p", "meta", hostOf(link)));
+  box.append(el("p", "hint", link ? "Click for link" : "Hack Club"));
+  return box;
+}
+
+function clusterHover(count, leaves) {
+  const box = el("div", "club-popup hover");
+  box.append(el("span", "tag", `${count} clubs`));
+  const list = el("ul", "names");
+  for (const f of leaves) list.append(el("li", null, f.properties.name));
+  box.append(list);
+  if (count > leaves.length) box.append(el("p", "meta", `+${count - leaves.length} more`));
+  box.append(el("p", "hint", "Click to zoom in"));
+  return box;
+}
+
+export function addClubHover(map, Popup, cursor, onHover = () => {}) {
+  const canvas = map.getCanvas();
+  const hover = new Popup({ closeButton: false, closeOnClick: false, offset: 14, maxWidth: "240px", className: "club-hover" });
+  let current = null;
+
+  const hide = () => {   
+    current = null;
+    hover.remove();
+  };
+
+  map.on("mousemove", "club-point", (e) => {
+    const f = e.features[0];
+    canvas.style.cursor = cursor;
+    onHover();
+    const key = `p:${f.properties.name}`;
+    if (current === key) return;
+    current = key;
+    hover.setLngLat(f.geometry.coordinates).setDOMContent(clubHover(f.properties)).addTo(map);
+  });
+
+  map.on("mousemove", "clusters", async (e) => {
+    const f = e.features[0];
+    canvas.style.cursor = cursor;
+    onHover();
+    const id = f.properties.cluster_id;
+    const key = `c:${id}`;
+    if (current === key) return;
+    current = key;
+    const leaves = await map.getSource("clubs").getClusterLeaves(id, 5, 0);
+    if (current !== key) return;
+    hover.setLngLat(f.geometry.coordinates).setDOMContent(clusterHover(f.properties.point_count, leaves)).addTo(map);
+  });
+
+  for (const layer of ["clusters", "club-point"]) {
+    map.on("mouseleave", layer, () => {
+      canvas.style.cursor = "";
+      hide();
+    });
+  }
+  map.on("mousedown", hide);
+  map.on("movestart", (e) => e.originalEvent && hide());
+  return hide;
 }
 
 export function clubPopup({ name, href, website }) {
